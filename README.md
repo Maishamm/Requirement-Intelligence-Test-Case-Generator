@@ -45,8 +45,8 @@ flowchart TD
 ### 1. Install Ollama & Pull the Model
 Install Ollama on your system, then pull and run the target model:
 ```bash
-ollama pull qwen2.5-coder:7b
-ollama run qwen2.5-coder:7b
+ollama pull qwen2.5-coder:7b or gemma3:4b
+ollama run qwen2.5-coder:7b or gemma3:4b
 ```
 
 ### 2. Setup Python Environment
